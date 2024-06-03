@@ -4,16 +4,16 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MylandmarkTech.com- Home Page</title>
+<title>ElectrifyAfrica- Home Page</title>
 <link href="images/log4.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technologies</h1>
-<h2 align="center"> Welcome to Landmark Technology.
-	Special testimony and thanksgiving session coming up on Sunday June 27, 2021
-	Landmark Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
-	We offer interview preparations and job assitance.
+<h1 align="center">Electrify Africa</h1>
+<h2 align="center"> Welcome to Electrify Africa.
+	Special testimony and thanksgiving session coming up on Sunday August 24, 2024
+	Electrify Africa is an ideal online, training platform for DevOps, Plaform, and Cloud Engineers. 
+	We also aspire to build automobiles and airplanes in the nearest future.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
@@ -21,12 +21,12 @@
 		<img src="images/log4.png" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
+		Electrify Africa, 
 		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		+1 438 866 7700,
+		danielenergy4future@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:danielenergy4future@gmail.com">Mail to Electrify Africa</a>
 	</span>
 </div>
 <hr>
