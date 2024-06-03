@@ -12,7 +12,7 @@ a<%@ page language="java" contentType="text/html; charset=UTF-8"
 <h1 align="center">Electrify Africa</h1>
 <h2 align="center"> Welcome to Electrify Africa.
 	Special testimony and thanksgiving session coming up on Sunday August 24, 2024
-	Electrify Africa is an ideal full-scale engineering company, with lots of upcoming projects and research. We are hoping to implement them all in the coming years. 
+	Electrify Africa is an ideal full-scale engineering company, with lots of upcoming projects and research. We are looking forward to implementing them all in the coming years. 
 	We also aspire to build Automobiles and Airplanes in the nearest future.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
