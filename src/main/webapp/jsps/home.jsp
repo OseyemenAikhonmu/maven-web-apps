@@ -13,7 +13,7 @@
 <h2 align="center"> Welcome to Electrify Africa.
 	Special testimony and thanksgiving session coming up on Sunday August 24, 2024
 	Electrify Africa is an ideal online, training platform for DevOps, Plaform, and Cloud Engineers. 
-	We also aspire to build automobiles and airplanes in the nearest future.
+	We also aspire to build Automobiles and Airplanes in the nearest future.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
