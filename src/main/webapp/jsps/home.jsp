@@ -16,6 +16,20 @@ a<%@ page language="java" contentType="text/html; charset=UTF-8"
 	We also aspire to build Automobiles and Airplanes in the nearest future.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
+<br>
+	<h1><h3> Server Side IP Address </h3><br>
+
+<% 
+String ip = "";
+InetAddress inetAddress = InetAddress.getLocalHost();
+ip = inetAddress.getHostAddress();
+out.println("Server Host Name :: "+inetAddress.getHostName()); 
+%>
+<br>
+<%out.println("Server IP Address :: "+ip);%>	
+</h1>	
+<hr>
+
 <div style="text-align: center;">
 	<span>
 		<img src="images/log4.png" alt="" width="200">
